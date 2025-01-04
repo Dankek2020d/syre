@@ -12,5 +12,5 @@ sys_ram - result: 32 GB (31.93 GB)
 clear - clears and prints text: Syre {VERSION} {USER}  
 clearall - clears all  
 say - print - example: say example; result: example  
-calc - math operation (USING EVAL, PLEASE BE CAREFUL, IT CAN RUN PYTHON CODE) (Use // instead of /) - example: calc 1+1*5*5; result: 26  
+calc - math operation (USING EVAL, PLEASE BE CAREFUL, IT CAN RUN PYTHON CODE) (Use // instead of /) - example: calc 5+5//2; result: 7  
 version - current syre version
