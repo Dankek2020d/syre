@@ -13,4 +13,6 @@ clear - clears and prints text: Syre {VERSION} {USER}
 clearall - clears all  
 say - print - example: say example; result: example  
 calc - math operation (USING EVAL, PLEASE BE CAREFUL, IT CAN RUN PYTHON CODE) (Use // instead of /) - example: calc 5+5//2; result: 7  
-version - current syre version
+version - current syre version  
+-----
+# Mods manual read in /syre/_internal/mods
