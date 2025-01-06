@@ -14,5 +14,7 @@ clearall - clears all
 say - print - example: say example; result: example  
 calc - math operation (USING EVAL, PLEASE BE CAREFUL, IT CAN RUN PYTHON CODE) (Use // instead of /) - example: calc 5+5//2; result: 7  
 version - current syre version  
+ethspeed - testing ethernet speed  
+sys_clear - clearing temp files
 -----
 # Mods manual read in /syre/_internal/mods
